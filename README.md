@@ -1,3 +1,3 @@
-![logo](img/kaggle.png)
+<img src="img/kaggle.png" alt="kaggle">
 
 Competitions and courses
